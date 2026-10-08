@@ -7,7 +7,8 @@ Project evidence portfolio in Data Analysis
 ---
 
 ## 🚀 Professional Profile
-Quantitative Data Analyst with an elite foundation in Physics and Mathematics (M.S. from ESFM-IPN). Expert in solving complex logical problems, managing data outliers, and training Large Language Models (LLMs). I translate abstract mathematical frameworks into actionable business insights, optimization algorithms, and high-conversion data structures.
+Quantitative Data Analyst with a rigorous foundation in Physics and Mathematics (M.S. from ESFM-IPN). Highly trained in complex logical thinking, data structuring, and statistical modeling. Experienced in using Python and SQL to analyze datasets, isolate behavioral patterns, and execute parametric hypothesis testing. My focus is translating mathematical frameworks into concrete, data-driven insights to optimize business operations.
+
 
 ---
 
